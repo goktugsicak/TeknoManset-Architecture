@@ -30,8 +30,8 @@ An autonomous, AI-driven tech news portal that continuously hunts, curates, tran
 ## 📸 Project Showcase & Architecture Diagrams
 
 ### Frontend Interface
-![TeknoManşet Homepage](ana-sayfa.jpg)
-![MarketPulse Analyzer UI](marketpulse-ui.jpg)
+![TeknoManşet Homepage](ana-sayfa.png)
+![MarketPulse Analyzer UI](marketpulse-ui.png)
 
 ### Backend Automation & AI Workflows (n8n)
 **1. Scheduled RSS Hunter & MySQL Control Flow:**
