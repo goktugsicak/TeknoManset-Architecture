@@ -26,3 +26,19 @@ An autonomous, AI-driven tech news portal that continuously hunts, curates, tran
 - **Resilient Workflows:** Designed n8n flows with "Continue On Error" contingencies, ensuring that one failed RSS source does not crash the entire content pipeline.
 
 *Developed as a demonstration of full-stack automation and AI integration capabilities.*
+
+## 📸 Project Showcase & Architecture Diagrams
+
+### Frontend Interface
+![TeknoManşet Homepage](ana-sayfa.jpg)
+![MarketPulse Analyzer UI](marketpulse-ui.jpg)
+
+### Backend Automation & AI Workflows (n8n)
+**1. Scheduled RSS Hunter & MySQL Control Flow:**
+![RSS Hunter Flow](rss-avcisi.png)
+
+**2. AI Content Curation & Publication Flow:**
+![Content Processing Flow](haber-isleme.png)
+
+**3. MarketPulse Real-time Analysis Flow:**
+![MarketPulse Flow](MarketPulse.png)
