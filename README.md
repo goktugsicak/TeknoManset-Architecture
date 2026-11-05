@@ -3,7 +3,8 @@
 **Note:** *Due to security, proprietary algorithms, and active API integrations, the raw source code of this project is kept in a private repository. This showcase outlines the system architecture, automation workflows, and technical stack used to build the platform.*
 
 ##  Project Overview
-teknomanset.net
+https://teknomanset.net/
+
 An autonomous, AI-driven tech news portal that continuously hunts, curates, translates, and publishes global technology news with zero human intervention. The system integrates advanced RSS scraping, NLP-based sentiment/relevance analysis, and dynamic UI rendering.
 
 ##  Technical Stack & Architecture
